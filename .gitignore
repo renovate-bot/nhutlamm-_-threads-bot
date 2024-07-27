@@ -1,0 +1,6 @@
+/node_modules
+.gitpod.yml
+.env
+.replit
+replit.nix
+package-lock.json
